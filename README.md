@@ -14,9 +14,3 @@ I work with **machine learning**, **deep learning**, and **computer vision**, es
 - Data analysis & ML  
 - Git & GitHub  
 
----
-
-## Learning Now
-- MLOps basics  
-- Advanced vision architectures  
-
