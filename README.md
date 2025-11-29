@@ -1,10 +1,10 @@
 # Hi, I'm Aline 👋  
-**Machine Learning Researcher & Data Scientist** 🇧🇷  
+Machine Learning Researcher & Data Scientist based in Minas Gerais, Brazil 🇧🇷  
 
 ---
 
 ## About Me
-I work with **machine learning**, **deep learning**, and **computer vision**, especially applied to **agriculture data**.
+I work with machine learning, deep learning, and computer vision, especially applied to agriculture data.
 
 ---
 
