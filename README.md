@@ -1,5 +1,5 @@
 # Hi, I'm Aline 👋  
-Machine Learning Researcher & Data Scientist based in Minas Gerais, Brazil 🇧🇷  
+Machine Learning Researcher & Data Scientist based in Minas Gerais, Brazil 🤖 🌿    
 
 ---
 
